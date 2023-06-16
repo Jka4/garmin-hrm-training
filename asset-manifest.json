@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/garmin-hrm-training/static/css/main.a29ded58.chunk.css",
-    "main.js": "/garmin-hrm-training/static/js/main.27a26021.chunk.js",
-    "main.js.map": "/garmin-hrm-training/static/js/main.27a26021.chunk.js.map",
+    "main.css": "/garmin-hrm-training/static/css/main.f77059e3.chunk.css",
+    "main.js": "/garmin-hrm-training/static/js/main.405406da.chunk.js",
+    "main.js.map": "/garmin-hrm-training/static/js/main.405406da.chunk.js.map",
     "runtime-main.js": "/garmin-hrm-training/static/js/runtime-main.6d6153ef.js",
     "runtime-main.js.map": "/garmin-hrm-training/static/js/runtime-main.6d6153ef.js.map",
-    "static/js/2.6d8c2e6b.chunk.js": "/garmin-hrm-training/static/js/2.6d8c2e6b.chunk.js",
-    "static/js/2.6d8c2e6b.chunk.js.map": "/garmin-hrm-training/static/js/2.6d8c2e6b.chunk.js.map",
+    "static/js/2.df969cc4.chunk.js": "/garmin-hrm-training/static/js/2.df969cc4.chunk.js",
+    "static/js/2.df969cc4.chunk.js.map": "/garmin-hrm-training/static/js/2.df969cc4.chunk.js.map",
     "index.html": "/garmin-hrm-training/index.html",
-    "static/css/main.a29ded58.chunk.css.map": "/garmin-hrm-training/static/css/main.a29ded58.chunk.css.map",
-    "static/js/2.6d8c2e6b.chunk.js.LICENSE.txt": "/garmin-hrm-training/static/js/2.6d8c2e6b.chunk.js.LICENSE.txt"
+    "static/css/main.f77059e3.chunk.css.map": "/garmin-hrm-training/static/css/main.f77059e3.chunk.css.map",
+    "static/js/2.df969cc4.chunk.js.LICENSE.txt": "/garmin-hrm-training/static/js/2.df969cc4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d6153ef.js",
-    "static/js/2.6d8c2e6b.chunk.js",
-    "static/css/main.a29ded58.chunk.css",
-    "static/js/main.27a26021.chunk.js"
+    "static/js/2.df969cc4.chunk.js",
+    "static/css/main.f77059e3.chunk.css",
+    "static/js/main.405406da.chunk.js"
   ]
 }
