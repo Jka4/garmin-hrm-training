@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { hrZones, maxHR, minHR } from './App';
+import { hrZones, maxHR, minHR } from '../App';
 
 const Slider = ({ currentHeartRate, currentZoneFinded }) => {
   const ref = useRef(null);
@@ -19,7 +19,13 @@ const Slider = ({ currentHeartRate, currentZoneFinded }) => {
     <div className="slider-container" ref={ref}>
       <div className="slider">
         {hrZones?.map((el) => (
-          <div key={el.name} className="slider-elem" style={{ background: el.color, width: sliderElementWidth(el) }} />
+          <>
+            <div
+              key={el.name}
+              className="slider-elem"
+              style={{ background: el.color, width: sliderElementWidth(el) }}
+            />
+          </>
         ))}
       </div>
 

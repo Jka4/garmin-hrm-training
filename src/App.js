@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
-import Slider from './Slider';
+import Slider from './components/Slider';
 
 let hrm = { id: 'EzpcWrVsiXwz5gsmsWmNsg==', name: 'HRM-Pro:121191' };
 
